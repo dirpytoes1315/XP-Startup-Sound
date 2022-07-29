@@ -1,2 +1,3 @@
 # XP-Startup-Sound
- yes
+ Plays an earrape version of the windows startup sound, on startup.
+ 
