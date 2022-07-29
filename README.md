@@ -1,0 +1,2 @@
+# XP-Startup-Sound
+ yes
