@@ -14,15 +14,12 @@
 5. In command prompt:
 - pip3 install pynput
 - pip3 install playsound
-- pip3 install pyinstaller
-6. Then, open command prompt in the folder. (Either open git bash or navigate to the folder via the command 'cd *folder*'
-7. Run **pyinstaller --onefile main.pyw**
-8. The .exe file can be found in /dist/main/
-9. Copy main.exe
-10. Press *Windows Key*+R
-11. Type 'shell:startup', and press enter.
-12. Paste main.exe into that folder.
-13. Done!
+6. Using [https://gist.github.com/dirpytoes1315/91dea15d2413ddcde497b5933d0d11e0](This Tutorial), create the main.exe file. The folder name is what you set the name of the folder to (Usually XP-Startup-Sound), and the file name is *main.pyw*
+7. Copy main.exe
+8. Press *Windows Key*+R
+9. Type 'shell:startup', and press enter.
+10. Paste main.exe into that folder.
+11. Done!
 
 ### Notes
 **Each time you change something, you will need to re-build the .exe file (Steps 6-13)**
