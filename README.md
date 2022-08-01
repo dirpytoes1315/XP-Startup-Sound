@@ -14,7 +14,7 @@
 5. In command prompt:
 - pip3 install pynput
 - pip3 install playsound
-6. Using [https://gist.github.com/dirpytoes1315/91dea15d2413ddcde497b5933d0d11e0](This Tutorial), create the main.exe file. The folder name is what you set the name of the folder to (Usually XP-Startup-Sound), and the file name is *main.pyw*
+6. Using [This Tutorial](https://gist.github.com/dirpytoes1315/91dea15d2413ddcde497b5933d0d11e0), create the main.exe file. The folder name is what you set the name of the folder to (Usually XP-Startup-Sound), and the file name is *main.pyw*
 7. Copy main.exe
 8. Press *Windows Key*+R
 9. Type 'shell:startup', and press enter.
